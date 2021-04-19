@@ -1,0 +1,17 @@
+Total number of tokens :   50,000,000,000 
+Tokens division : Reserve Wallet: 30% (20 billion)
+Interest Payout Wallet: 20% (10 billion)
+Team Members HR Wallet: 10% (5 billion) 
+Company General Fund Wallet: 13% (6.5 billion) 
+Bounties/Airdrops Wallet: 2% (1 billion)
+Token Sale Wallet: 25% (12.5 billion) 
+
+Token Price :   	$0.001 
+Private sale Duration :  15 days
+PreSale Duration : 15 Days
+CrowdSale : 30 Days
+SoftCap :    $5,000,000 
+Bonus :  	Private Sale 25%
+                  Pre-Sale 20%
+                  CrowdSale 15% 1st week, 10% 2nd week, 5% 3rd week, 0% 4th week 
+
